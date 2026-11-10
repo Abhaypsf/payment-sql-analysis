@@ -1,0 +1,301 @@
+payment_id,business_unit,approver_id,payment_type,amount_inr,received_date,processed_date,status,sla_days
+PAY0001,Legal,9.0,Vendor Payment,702353.41,2026-09-02,2026-09-02,Completed,2
+PAY0002,HR,8.0,Expense Reimbursement,112665.62,2026-10-06,2026-10-08,Completed,2
+PAY0003,Technology,6.0,Vendor Payment,24015.9,2026-09-26,2026-09-28,Completed,2
+PAY0004,HR,8.0,Regulatory,772053.5,2026-09-25,2026-09-25,Completed,2
+PAY0005,Technology,5.0,Contractual,72515.78,2026-10-21,2026-10-21,Completed,2
+PAY0006,Legal,9.0,Expense Reimbursement,116140.85,2026-10-07,2026-10-08,Completed,2
+PAY0007,Operations,10.0,Vendor Payment,2738.31,2026-10-01,2026-10-03,Completed,2
+PAY0008,Marketing,4.0,Vendor Payment,92372.16,2026-09-20,2026-09-20,Rejected,2
+PAY0009,Operations,10.0,Contractual,660360.91,2026-11-02,2026-11-03,Completed,2
+PAY0010,HR,8.0,Corporate Card,713158.35,2026-09-28,2026-09-29,Completed,2
+PAY0011,Legal,9.0,Regulatory,229808.12,2026-10-03,2026-10-03,Completed,2
+PAY0012,Marketing,,Expense Reimbursement,38983.47,2026-10-11,2026-10-13,Completed,2
+PAY0013,Procurement,7.0,Regulatory,644813.12,2026-10-20,2026-10-21,Completed,2
+PAY0014,HR,8.0,Corporate Card,430065.38,2026-09-14,2026-09-15,Completed,2
+PAY0015,Marketing,3.0,Vendor Payment,18280.34,2026-09-29,2026-09-30,Completed,2
+PAY0016,Marketing,4.0,Vendor Payment,220744.35,2026-09-16,2026-09-18,Completed,2
+PAY0017,Legal,9.0,Vendor Payment,18748.91,2026-10-17,2026-10-17,Completed,2
+PAY0018,Operations,10.0,Expense Reimbursement,187941.25,2026-11-09,2026-11-10,Completed,2
+PAY0019,Procurement,7.0,Vendor Payment,32329.42,2026-10-08,2026-10-08,Completed,2
+PAY0020,Legal,9.0,Vendor Payment,584385.22,2026-11-03,2026-11-04,Completed,2
+PAY0021,Operations,10.0,Vendor Payment,13680.06,2026-10-11,,Pending,2
+PAY0022,HR,8.0,Expense Reimbursement,643029.87,2026-09-05,2026-09-06,Completed,2
+PAY0023,Technology,6.0,Vendor Payment,16846.52,2026-11-09,2026-11-10,Completed,2
+PAY0024,Marketing,4.0,Vendor Payment,33598.91,2026-10-21,2026-10-22,Completed,2
+PAY0025,Operations,10.0,Corporate Card,14755.85,2026-10-08,2026-10-09,Completed,2
+PAY0026,HR,8.0,Corporate Card,104279.74,2026-10-09,2026-10-09,Completed,2
+PAY0027,Technology,5.0,Vendor Payment,346466.45,2026-09-15,2026-09-15,Completed,2
+PAY0028,Legal,9.0,Expense Reimbursement,21195.69,2026-11-05,,Pending,2
+PAY0029,Operations,10.0,Contractual,227095.22,2026-09-19,2026-09-21,Completed,2
+PAY0030,Marketing,3.0,Contractual,117070.56,2026-10-10,2026-10-10,Completed,2
+PAY0031,Operations,10.0,Vendor Payment,20781.49,2026-10-13,2026-10-14,Completed,2
+PAY0032,Operations,10.0,Expense Reimbursement,109939.76,2026-11-07,2026-11-07,Rejected,2
+PAY0033,Technology,5.0,Vendor Payment,385257.99,2026-09-06,2026-09-06,Completed,2
+PAY0034,Procurement,7.0,Expense Reimbursement,855197.34,2026-10-16,2026-10-17,Completed,2
+PAY0035,Technology,5.0,Corporate Card,63660.58,2026-10-04,2026-10-05,Completed,2
+PAY0036,Legal,9.0,Expense Reimbursement,93492.15,2026-10-15,2026-10-16,Completed,2
+PAY0037,Procurement,7.0,Expense Reimbursement,701971.08,2026-10-31,2026-11-02,Completed,2
+PAY0038,Legal,9.0,Vendor Payment,28053.17,2026-11-01,2026-11-02,Completed,2
+PAY0039,Procurement,7.0,Expense Reimbursement,5394.14,2026-09-17,2026-09-18,Completed,2
+PAY0040,HR,8.0,Contractual,498482.43,2026-10-01,2026-10-02,Completed,2
+PAY0041,HR,8.0,Contractual,137151.01,2026-09-14,2026-09-15,Completed,2
+PAY0042,HR,8.0,Expense Reimbursement,34685.42,2026-09-29,2026-09-29,Completed,2
+PAY0043,Legal,9.0,Corporate Card,75949.92,2026-11-03,2026-11-05,Completed,2
+PAY0044,Legal,9.0,Contractual,72547.63,2026-10-03,2026-10-05,Completed,2
+PAY0045,Legal,9.0,Expense Reimbursement,441642.9,2026-09-20,2026-09-22,Completed,2
+PAY0046,HR,8.0,Contractual,107874.97,2026-10-24,2026-10-24,Completed,2
+PAY0047,Procurement,7.0,Vendor Payment,59782.08,2026-10-09,2026-10-12,Completed,2
+PAY0048,Marketing,3.0,Corporate Card,16990.36,2026-11-08,2026-11-09,Completed,2
+PAY0049,Marketing,4.0,Corporate Card,605435.62,2026-10-27,2026-10-28,Completed,2
+PAY0050,Technology,6.0,Expense Reimbursement,667960.81,2026-10-10,2026-10-12,Completed,2
+PAY0051,Finance,1.0,Vendor Payment,71321.36,2026-11-09,2026-11-09,Completed,2
+PAY0052,Legal,9.0,Corporate Card,116724.41,2026-09-03,2026-09-05,Completed,2
+PAY0053,Technology,5.0,Contractual,135203.9,2026-09-23,2026-09-24,Completed,2
+PAY0054,Technology,6.0,Vendor Payment,22247.36,2026-09-05,2026-09-06,Completed,2
+PAY0055,Operations,10.0,Corporate Card,16855.77,2026-10-04,2026-10-05,Completed,2
+PAY0056,Procurement,7.0,Expense Reimbursement,66348.91,2026-10-02,2026-10-05,Completed,2
+PAY0057,Operations,10.0,Vendor Payment,592190.18,2026-10-05,2026-10-05,Completed,2
+PAY0058,Technology,,Corporate Card,30689.46,2026-10-25,2026-10-27,Completed,2
+PAY0059,Procurement,7.0,Expense Reimbursement,31422.09,2026-10-27,2026-10-27,Completed,2
+PAY0060,Finance,1.0,Vendor Payment,14945.31,2026-09-18,2026-09-18,Completed,2
+PAY0061,Procurement,7.0,Vendor Payment,15536.08,2026-10-29,2026-10-29,Completed,2
+PAY0062,Marketing,3.0,Vendor Payment,487877.78,2026-09-11,2026-09-12,Completed,2
+PAY0063,Procurement,7.0,Corporate Card,618793.51,2026-10-16,2026-10-17,Completed,2
+PAY0064,Operations,10.0,Vendor Payment,711718.29,2026-10-05,2026-10-06,Completed,2
+PAY0065,Technology,6.0,Expense Reimbursement,700900.44,2026-10-09,2026-10-10,Completed,2
+PAY0066,HR,8.0,Regulatory,17462.48,2026-09-11,2026-09-11,Completed,2
+PAY0067,Procurement,7.0,Regulatory,12810.24,2026-10-21,2026-10-21,Completed,2
+PAY0068,Operations,10.0,Expense Reimbursement,65409.22,2026-09-06,2026-09-08,Completed,2
+PAY0069,Finance,1.0,Expense Reimbursement,16320.58,2026-10-15,2026-10-15,Completed,2
+PAY0070,Procurement,7.0,Vendor Payment,124914.22,2026-09-01,2026-09-01,Completed,2
+PAY0071,Finance,2.0,Regulatory,44246.39,2026-09-06,2026-09-07,Completed,2
+PAY0072,Procurement,7.0,Expense Reimbursement,23202.97,2026-10-06,2026-10-07,Completed,2
+PAY0073,Technology,5.0,Vendor Payment,98367.22,2026-10-22,2026-10-23,Completed,2
+PAY0074,Procurement,7.0,Regulatory,147596.83,2026-10-12,2026-10-13,Completed,2
+PAY0075,Operations,10.0,Expense Reimbursement,127593.44,2026-11-06,,On Hold,2
+PAY0076,Technology,5.0,Contractual,492696.06,2026-10-23,2026-10-23,Completed,2
+PAY0077,Technology,6.0,Expense Reimbursement,396424.19,2026-09-03,2026-09-04,Completed,2
+PAY0078,Operations,10.0,Expense Reimbursement,7399.72,2026-10-30,2026-10-31,Completed,2
+PAY0079,Procurement,7.0,Corporate Card,30748.87,2026-09-26,2026-09-27,Completed,2
+PAY0080,Operations,10.0,Vendor Payment,3816.27,2026-09-08,2026-09-09,Completed,2
+PAY0081,Technology,5.0,Contractual,12700.82,2026-09-15,2026-09-15,Rejected,2
+PAY0082,Legal,9.0,Expense Reimbursement,8948.8,2026-10-11,2026-10-11,Completed,2
+PAY0083,Finance,2.0,Vendor Payment,15016.37,2026-09-08,2026-09-10,Completed,2
+PAY0084,Operations,10.0,Vendor Payment,716682.99,2026-10-24,2026-10-25,Completed,2
+PAY0085,Procurement,7.0,Expense Reimbursement,371332.84,2026-09-18,2026-09-19,Completed,2
+PAY0086,HR,8.0,Contractual,128086.23,2026-09-28,2026-09-28,Completed,2
+PAY0087,Marketing,4.0,Regulatory,20505.52,2026-10-08,2026-10-09,Completed,2
+PAY0088,HR,8.0,Contractual,23626.71,2026-09-30,2026-09-30,Completed,2
+PAY0089,Legal,9.0,Expense Reimbursement,30668.35,2026-10-27,,Completed,2
+PAY0090,Legal,9.0,Expense Reimbursement,135676.72,2026-09-19,2026-09-20,Completed,2
+PAY0091,Procurement,7.0,Contractual,558349.4,2026-09-26,2026-09-28,Completed,2
+PAY0092,Operations,10.0,Vendor Payment,6878.43,2026-09-29,2026-10-03,Completed,2
+PAY0093,Marketing,3.0,Contractual,741482.82,2026-11-10,2026-11-10,Completed,2
+PAY0094,Operations,10.0,Vendor Payment,21928.3,2026-09-30,2026-09-30,Completed,2
+PAY0095,Finance,1.0,Expense Reimbursement,231790.51,2026-10-13,2026-10-15,Completed,2
+PAY0096,HR,8.0,Expense Reimbursement,32603.18,2026-09-17,2026-09-19,Completed,2
+PAY0097,Finance,2.0,Expense Reimbursement,624807.54,2026-09-30,2026-09-30,Completed,2
+PAY0098,Procurement,7.0,Corporate Card,808279.66,2026-10-14,2026-10-15,Completed,2
+PAY0099,Procurement,7.0,Corporate Card,9188.61,2026-09-11,2026-09-14,Completed,2
+PAY0100,Technology,5.0,Expense Reimbursement,15488.7,2026-09-19,2026-09-21,Completed,2
+PAY0101,Legal,9.0,Regulatory,15809.43,2026-10-22,2026-10-22,Completed,2
+PAY0102,Technology,5.0,Corporate Card,783866.37,2026-11-07,2026-11-08,Completed,2
+PAY0103,Technology,6.0,Regulatory,257438.62,2026-09-20,2026-09-22,Completed,2
+PAY0104,HR,8.0,Expense Reimbursement,44676.16,2026-10-31,2026-11-02,Completed,2
+PAY0105,Finance,2.0,Expense Reimbursement,11752.34,2026-09-06,2026-09-06,Completed,2
+PAY0106,Procurement,7.0,Vendor Payment,99915.62,2026-10-14,2026-10-16,Completed,2
+PAY0107,Legal,9.0,Vendor Payment,525196.76,2026-09-26,2026-09-27,Completed,2
+PAY0108,Operations,10.0,Expense Reimbursement,15188.19,2026-09-20,2026-09-22,Completed,2
+PAY0109,Operations,10.0,Vendor Payment,591653.47,2026-10-31,2026-11-01,Completed,2
+PAY0110,Marketing,3.0,Expense Reimbursement,88744.01,2026-09-27,2026-09-29,Completed,2
+PAY0111,Marketing,4.0,Vendor Payment,15855.18,2026-09-08,2026-09-09,Completed,2
+PAY0112,HR,8.0,Contractual,43869.68,2026-10-03,2026-10-04,Completed,2
+PAY0113,Procurement,7.0,Vendor Payment,10480.96,2026-09-07,2026-09-09,Completed,2
+PAY0114,Finance,2.0,Contractual,603754.38,2026-10-22,2026-10-24,Completed,2
+PAY0115,Legal,9.0,Expense Reimbursement,55967.97,2026-09-04,2026-09-05,Completed,2
+PAY0116,Procurement,7.0,Corporate Card,103860.82,2026-10-29,2026-10-29,Completed,2
+PAY0117,HR,8.0,Vendor Payment,412365.59,2026-09-21,2026-09-21,Completed,2
+PAY0118,Legal,9.0,Contractual,704081.0,2026-09-04,2026-09-07,Completed,2
+PAY0119,Marketing,3.0,Vendor Payment,19621.59,2026-11-01,2026-11-02,Completed,2
+PAY0120,Legal,9.0,Corporate Card,22157.03,2026-10-21,2026-10-22,Completed,2
+PAY0121,Legal,9.0,Vendor Payment,877191.45,2026-10-05,2026-10-05,Completed,2
+PAY0122,Operations,10.0,Contractual,109788.35,2026-09-12,2026-09-13,Completed,2
+PAY0123,Marketing,3.0,Contractual,56250.4,2026-09-01,2026-09-02,Completed,2
+PAY0124,Finance,1.0,Vendor Payment,22822.04,2026-09-14,,Pending,2
+PAY0125,Procurement,7.0,Expense Reimbursement,10601.11,2026-11-07,2026-11-08,Completed,2
+PAY0126,Marketing,3.0,Vendor Payment,773332.86,2026-09-11,2026-09-11,Completed,2
+PAY0127,Operations,10.0,Expense Reimbursement,90971.44,2026-10-11,2026-10-12,Completed,2
+PAY0128,Procurement,7.0,Vendor Payment,162326.51,2026-10-11,2026-10-11,Completed,2
+PAY0129,HR,8.0,Vendor Payment,420452.82,2026-09-02,2026-09-03,Rejected,2
+PAY0130,Procurement,7.0,Expense Reimbursement,24563.91,2026-09-27,2026-09-27,Completed,2
+PAY0131,Operations,10.0,Vendor Payment,632096.71,2026-09-12,2026-09-12,Completed,2
+PAY0132,Legal,9.0,Vendor Payment,123888.65,2026-10-02,2026-10-03,Rejected,2
+PAY0133,Operations,10.0,Vendor Payment,30975.5,2026-10-26,2026-10-27,Completed,2
+PAY0134,Procurement,7.0,Regulatory,843232.85,2026-10-07,2026-10-07,Completed,2
+PAY0135,Operations,10.0,Expense Reimbursement,35008.61,2026-09-14,2026-09-15,Completed,2
+PAY0136,Finance,2.0,Expense Reimbursement,12003.63,2026-11-01,2026-11-02,Completed,2
+PAY0137,Marketing,3.0,Vendor Payment,15974.18,2026-10-11,2026-10-12,Completed,2
+PAY0138,HR,8.0,Corporate Card,722313.35,2026-10-24,2026-10-25,Completed,2
+PAY0139,Finance,1.0,Corporate Card,73373.42,2026-10-08,2026-10-09,Completed,2
+PAY0140,Procurement,7.0,Vendor Payment,81505.34,2026-10-30,,On Hold,2
+PAY0141,Technology,6.0,Corporate Card,14649.93,2026-10-19,2026-10-19,Completed,2
+PAY0142,Marketing,3.0,Corporate Card,426683.37,2026-10-25,2026-10-26,Completed,2
+PAY0143,Legal,9.0,Expense Reimbursement,127917.42,2026-11-01,2026-11-02,Completed,2
+PAY0144,Operations,10.0,Corporate Card,4967.76,2026-09-05,2026-09-06,Completed,2
+PAY0145,Technology,6.0,Contractual,7763.92,2026-10-03,2026-10-04,Completed,2
+PAY0146,HR,8.0,Vendor Payment,403214.69,2026-11-05,2026-11-05,Completed,2
+PAY0147,HR,8.0,Corporate Card,77073.35,2026-09-02,,On Hold,2
+PAY0148,Procurement,7.0,Contractual,17754.79,2026-10-21,2026-10-21,Completed,2
+PAY0149,Technology,6.0,Corporate Card,146921.77,2026-09-06,2026-09-07,Completed,2
+PAY0150,Marketing,3.0,Vendor Payment,8674.88,2026-10-21,,Pending,2
+PAY0151,Legal,9.0,Vendor Payment,149496.18,2026-09-08,,Pending,2
+PAY0152,HR,8.0,Regulatory,69111.89,2026-09-11,2026-09-11,Completed,2
+PAY0153,Technology,6.0,Corporate Card,10416.56,2026-09-25,2026-09-26,Completed,2
+PAY0154,Technology,5.0,Vendor Payment,890090.75,2026-09-25,2026-09-26,Completed,2
+PAY0155,Finance,1.0,Vendor Payment,492741.42,2026-09-06,,Pending,2
+PAY0156,Technology,5.0,Expense Reimbursement,595293.49,2026-09-06,2026-09-06,Completed,2
+PAY0157,Technology,6.0,Corporate Card,747566.11,2026-11-07,2026-11-08,Completed,2
+PAY0158,HR,8.0,Corporate Card,621768.93,2026-09-23,2026-09-23,Completed,2
+PAY0159,Finance,1.0,Vendor Payment,43928.91,2026-09-07,2026-09-09,Completed,2
+PAY0160,Finance,1.0,Expense Reimbursement,149765.36,2026-10-01,2026-10-02,Completed,2
+PAY0161,Legal,9.0,Expense Reimbursement,6422.08,2026-10-03,2026-10-04,Completed,2
+PAY0162,Procurement,7.0,Expense Reimbursement,365842.03,2026-09-02,2026-09-04,Rejected,2
+PAY0163,Operations,10.0,Vendor Payment,114267.66,2026-10-09,2026-10-11,Completed,2
+PAY0164,HR,8.0,Vendor Payment,331843.53,2026-09-04,2026-09-04,Completed,2
+PAY0165,Procurement,7.0,Corporate Card,5161.74,2026-09-19,2026-09-20,Completed,2
+PAY0166,Operations,10.0,Vendor Payment,217095.54,2026-10-12,2026-10-14,Completed,2
+PAY0167,Marketing,4.0,Contractual,139954.35,2026-09-08,2026-09-10,Completed,2
+PAY0168,Finance,1.0,Vendor Payment,141056.86,2026-09-02,2026-09-02,Completed,2
+PAY0169,Technology,5.0,Contractual,636214.0,2026-10-18,2026-10-18,Completed,2
+PAY0170,Marketing,3.0,Expense Reimbursement,75686.3,2026-10-30,2026-11-01,Completed,2
+PAY0171,Marketing,3.0,Vendor Payment,119219.58,2026-11-09,,Pending,2
+PAY0172,Marketing,3.0,Corporate Card,664555.21,2026-10-02,2026-10-04,Completed,2
+PAY0173,Marketing,3.0,Regulatory,81872.33,2026-09-18,2026-09-20,Completed,2
+PAY0174,Operations,10.0,Corporate Card,740528.02,2026-09-14,2026-09-16,Completed,2
+PAY0175,Operations,10.0,Expense Reimbursement,5446.6,2026-10-15,2026-10-17,Completed,2
+PAY0176,Finance,2.0,Vendor Payment,569097.9,2026-10-02,2026-10-04,Completed,2
+PAY0177,HR,8.0,Vendor Payment,9924.16,2026-09-11,2026-09-13,Completed,2
+PAY0178,Legal,9.0,Expense Reimbursement,81067.14,2026-09-23,,On Hold,2
+PAY0179,Operations,10.0,Corporate Card,552943.86,2026-10-25,2026-10-27,Completed,2
+PAY0180,Procurement,7.0,Expense Reimbursement,55939.0,2026-10-17,2026-10-17,Completed,2
+PAY0181,Procurement,7.0,Vendor Payment,484830.8,2026-11-04,2026-11-05,Completed,2
+PAY0182,Operations,10.0,Vendor Payment,837297.77,2026-10-01,2026-10-03,Completed,2
+PAY0183,Marketing,3.0,Expense Reimbursement,593750.34,2026-10-19,2026-10-20,Completed,2
+PAY0184,Legal,9.0,Corporate Card,77040.58,2026-10-18,2026-10-20,Completed,2
+PAY0185,Legal,9.0,Contractual,875839.64,2026-09-04,2026-09-04,Completed,2
+PAY0186,Procurement,7.0,Vendor Payment,351346.19,2026-11-05,2026-11-07,Completed,2
+PAY0187,HR,8.0,Expense Reimbursement,21997.9,2026-10-14,,On Hold,2
+PAY0188,Finance,2.0,Contractual,17999.4,2026-09-01,2026-09-02,Completed,2
+PAY0189,Technology,6.0,Expense Reimbursement,752112.47,2026-09-11,2026-09-11,Completed,2
+PAY0190,Finance,1.0,Corporate Card,588023.92,2026-09-18,2026-09-18,Completed,2
+PAY0191,Marketing,4.0,Expense Reimbursement,67195.54,2026-09-09,2026-09-10,Completed,2
+PAY0192,HR,8.0,Vendor Payment,867927.67,2026-11-06,2026-11-08,Completed,2
+PAY0193,Finance,2.0,Vendor Payment,16506.14,2026-09-07,2026-09-08,Completed,2
+PAY0194,Procurement,7.0,Vendor Payment,162544.61,2026-10-06,2026-10-07,Completed,2
+PAY0195,Procurement,7.0,Vendor Payment,293949.04,2026-10-09,2026-10-10,Completed,2
+PAY0196,Procurement,7.0,Expense Reimbursement,24775.36,2026-11-06,2026-11-08,Completed,2
+PAY0197,Legal,9.0,Vendor Payment,21442.59,2026-09-04,2026-09-06,Completed,2
+PAY0198,HR,8.0,Vendor Payment,360279.76,2026-11-06,,Pending,2
+PAY0199,Finance,1.0,Expense Reimbursement,19301.85,2026-10-03,2026-10-05,Completed,2
+PAY0200,HR,8.0,Expense Reimbursement,19014.14,2026-09-07,2026-09-07,Completed,2
+PAY0201,Finance,2.0,Expense Reimbursement,99451.08,2026-11-07,2026-11-08,Completed,2
+PAY0202,HR,8.0,Expense Reimbursement,214270.59,2026-10-04,2026-10-04,Completed,2
+PAY0203,Legal,9.0,Corporate Card,38318.86,2026-09-15,2026-09-15,Completed,2
+PAY0204,Procurement,7.0,Vendor Payment,94277.48,2026-09-22,2026-09-24,Completed,2
+PAY0205,HR,8.0,Expense Reimbursement,72591.5,2026-10-07,2026-10-08,Completed,2
+PAY0206,Procurement,7.0,Expense Reimbursement,521851.83,2026-10-16,2026-10-16,Completed,2
+PAY0207,Operations,10.0,Contractual,761606.6,2026-10-24,2026-10-25,Completed,2
+PAY0208,Marketing,4.0,Regulatory,518255.48,2026-10-10,2026-10-12,Completed,2
+PAY0209,HR,8.0,Expense Reimbursement,562574.37,2026-09-12,2026-09-14,Completed,2
+PAY0210,Finance,2.0,Corporate Card,5201.12,2026-09-17,2026-09-20,Completed,2
+PAY0211,Procurement,7.0,Expense Reimbursement,821626.14,2026-10-31,2026-11-01,Completed,2
+PAY0212,HR,8.0,Expense Reimbursement,105842.95,2026-09-16,2026-09-16,Completed,2
+PAY0213,HR,8.0,Expense Reimbursement,591442.47,2026-10-22,2026-10-22,Completed,2
+PAY0214,Finance,1.0,Contractual,18793.47,2026-09-05,2026-09-06,Completed,2
+PAY0215,Technology,5.0,Vendor Payment,786885.01,2026-10-28,2026-10-30,Completed,2
+PAY0216,Marketing,3.0,Vendor Payment,748316.84,2026-10-18,2026-10-19,Completed,2
+PAY0217,Marketing,4.0,Expense Reimbursement,304338.36,2026-11-02,2026-11-03,Completed,2
+PAY0218,Marketing,4.0,Vendor Payment,86185.5,2026-09-22,2026-09-23,Completed,2
+PAY0219,HR,8.0,Contractual,18237.73,2026-10-24,2026-10-24,Completed,2
+PAY0220,Marketing,4.0,Expense Reimbursement,289315.27,2026-09-03,2026-09-06,Completed,2
+PAY0221,Procurement,7.0,Vendor Payment,81375.12,2026-11-09,,Pending,2
+PAY0222,Procurement,7.0,Expense Reimbursement,13309.7,2026-10-31,2026-11-01,Completed,2
+PAY0223,HR,8.0,Vendor Payment,724439.67,2026-09-06,2026-09-08,Completed,2
+PAY0224,Technology,5.0,Corporate Card,468866.02,2026-10-10,2026-10-11,Rejected,2
+PAY0225,Operations,10.0,Expense Reimbursement,327709.54,2026-09-27,2026-09-28,Completed,2
+PAY0226,Operations,10.0,Contractual,549210.6,2026-09-03,,On Hold,2
+PAY0227,Technology,6.0,Expense Reimbursement,23905.14,2026-10-24,2026-10-26,Completed,2
+PAY0228,Operations,10.0,Corporate Card,5051.89,2026-09-21,2026-09-21,Completed,2
+PAY0229,Procurement,7.0,Expense Reimbursement,36636.85,2026-09-24,2026-09-25,Completed,2
+PAY0230,Operations,10.0,Corporate Card,12544.33,2026-09-03,,On Hold,2
+PAY0231,Operations,10.0,Expense Reimbursement,9425.9,2026-09-09,2026-09-14,Completed,2
+PAY0232,Operations,10.0,Vendor Payment,44747.94,2026-10-16,2026-10-18,Completed,2
+PAY0233,Operations,10.0,Vendor Payment,648381.61,2026-10-20,2026-10-21,Completed,2
+PAY0234,Procurement,7.0,Corporate Card,2024.98,2026-09-05,2026-09-06,Completed,2
+PAY0235,Operations,10.0,Corporate Card,12987.11,2026-10-28,2026-10-28,Completed,2
+PAY0236,Operations,10.0,Expense Reimbursement,572468.41,2026-10-20,2026-10-21,Completed,2
+PAY0237,Procurement,7.0,Contractual,714334.23,2026-09-22,2026-09-24,Completed,2
+PAY0238,Legal,9.0,Vendor Payment,363690.61,2026-11-07,2026-11-08,Completed,2
+PAY0239,HR,8.0,Corporate Card,8797.47,2026-09-08,2026-09-09,Completed,2
+PAY0240,Finance,2.0,Regulatory,132601.75,2026-09-02,2026-09-04,Completed,2
+PAY0241,Finance,1.0,Vendor Payment,140322.41,2026-09-07,2026-09-09,Completed,2
+PAY0242,Procurement,7.0,Expense Reimbursement,14366.07,2026-09-06,,On Hold,2
+PAY0243,Marketing,4.0,Expense Reimbursement,16588.77,2026-10-02,2026-10-04,Completed,2
+PAY0244,Finance,2.0,Vendor Payment,649559.68,2026-10-19,2026-10-20,Completed,2
+PAY0245,Technology,6.0,Vendor Payment,4919.4,2026-11-07,2026-11-08,Completed,2
+PAY0246,HR,8.0,Expense Reimbursement,13747.98,2026-09-24,2026-09-26,Completed,2
+PAY0247,Finance,1.0,Corporate Card,2059.08,2026-09-11,2026-09-11,Completed,2
+PAY0248,Finance,2.0,Vendor Payment,7710.05,2026-09-24,2026-09-24,Completed,2
+PAY0249,HR,8.0,Regulatory,83136.77,2026-09-30,2026-10-01,Completed,2
+PAY0250,Operations,10.0,Corporate Card,7579.43,2026-09-02,2026-09-02,Completed,2
+PAY0251,Marketing,4.0,Expense Reimbursement,401263.03,2026-09-23,2026-09-23,Completed,2
+PAY0252,Marketing,4.0,Expense Reimbursement,3377.59,2026-11-05,,Pending,2
+PAY0253,HR,8.0,Corporate Card,10567.32,2026-09-07,2026-09-07,Completed,2
+PAY0254,Procurement,7.0,Vendor Payment,750612.62,2026-09-30,2026-09-30,Completed,2
+PAY0255,Operations,10.0,Vendor Payment,454884.41,2026-09-26,2026-09-27,Completed,2
+PAY0256,Finance,1.0,Vendor Payment,17779.26,2026-10-14,2026-10-14,Completed,2
+PAY0257,Technology,6.0,Expense Reimbursement,17575.22,2026-09-20,2026-09-21,Completed,2
+PAY0258,Finance,1.0,Vendor Payment,3418.39,2026-09-20,2026-09-21,Completed,2
+PAY0259,Technology,5.0,Vendor Payment,3482.86,2026-10-30,2026-10-31,Completed,2
+PAY0260,Procurement,7.0,Vendor Payment,15199.34,2026-09-23,2026-09-23,Completed,2
+PAY0261,Technology,6.0,Contractual,102397.07,2026-09-08,2026-09-08,Completed,2
+PAY0262,Marketing,4.0,Vendor Payment,623065.79,2026-11-08,2026-11-09,Completed,2
+PAY0263,Procurement,7.0,Contractual,73547.66,2026-10-13,2026-10-13,Completed,2
+PAY0264,Procurement,7.0,Corporate Card,225100.75,2026-10-11,2026-10-14,Completed,2
+PAY0265,HR,8.0,Expense Reimbursement,282075.28,2026-10-01,2026-10-03,Completed,2
+PAY0266,Legal,9.0,Regulatory,95388.61,2026-09-02,2026-09-02,Completed,2
+PAY0267,Marketing,3.0,Expense Reimbursement,2015.72,2026-09-28,2026-09-30,Completed,2
+PAY0268,Finance,1.0,Expense Reimbursement,121795.81,2026-11-01,,Pending,2
+PAY0269,Procurement,7.0,Vendor Payment,146982.58,2026-09-09,2026-09-11,Completed,2
+PAY0270,HR,8.0,Vendor Payment,380117.42,2026-10-04,2026-10-06,Completed,2
+PAY0271,Procurement,7.0,Vendor Payment,608535.86,2026-10-28,2026-10-29,Completed,2
+PAY0272,Technology,5.0,Expense Reimbursement,652518.43,2026-09-29,2026-09-29,Completed,2
+PAY0273,Technology,5.0,Corporate Card,3107.39,2026-09-19,2026-09-20,Completed,2
+PAY0274,Procurement,7.0,Vendor Payment,130720.31,2026-10-08,2026-10-08,Completed,2
+PAY0275,Legal,9.0,Expense Reimbursement,595522.91,2026-09-10,2026-09-11,Completed,2
+PAY0276,Procurement,7.0,Vendor Payment,456959.9,2026-09-02,2026-09-05,Completed,2
+PAY0277,HR,8.0,Vendor Payment,370912.09,2026-09-10,2026-09-10,Completed,2
+PAY0278,Finance,2.0,Contractual,516822.61,2026-10-08,2026-10-08,Completed,2
+PAY0279,Technology,5.0,Expense Reimbursement,83132.24,2026-11-03,2026-11-03,Completed,2
+PAY0280,Operations,10.0,Regulatory,780597.87,2026-09-18,2026-09-20,Completed,2
+PAY0281,Marketing,4.0,Vendor Payment,176046.37,2026-09-05,2026-09-06,Completed,2
+PAY0282,Operations,10.0,Vendor Payment,24640.46,2026-11-05,2026-11-06,Rejected,2
+PAY0283,Legal,9.0,Contractual,7931.39,2026-10-30,2026-10-31,Completed,2
+PAY0284,Procurement,7.0,Corporate Card,90320.25,2026-10-22,2026-10-24,Completed,2
+PAY0285,Finance,1.0,Corporate Card,135016.97,2026-09-22,2026-09-23,Completed,2
+PAY0286,Procurement,7.0,Expense Reimbursement,75214.99,2026-10-11,2026-10-11,Completed,2
+PAY0287,Technology,6.0,Vendor Payment,21385.47,2026-10-24,2026-10-26,Completed,2
+PAY0288,Legal,9.0,Expense Reimbursement,80214.57,2026-09-09,2026-09-11,Completed,2
+PAY0289,Marketing,3.0,Vendor Payment,788471.51,2026-11-07,,Pending,2
+PAY0290,Marketing,3.0,Vendor Payment,139753.88,2026-09-24,2026-09-25,Completed,2
+PAY0291,Finance,1.0,Expense Reimbursement,802860.58,2026-09-01,2026-09-03,Completed,2
+PAY0292,Legal,9.0,Vendor Payment,10891.01,2026-10-13,2026-10-13,Completed,2
+PAY0293,Finance,1.0,Expense Reimbursement,5043.22,2026-10-09,,Pending,2
+PAY0294,Legal,9.0,Expense Reimbursement,68588.65,2026-10-03,2026-10-04,Completed,2
+PAY0295,HR,8.0,Expense Reimbursement,60334.61,2026-11-02,2026-11-03,Completed,2
+PAY0296,Legal,9.0,Vendor Payment,192581.01,2026-09-20,2026-09-21,Completed,2
+PAY0297,Technology,6.0,Contractual,587267.78,2026-10-17,2026-10-18,Completed,2
+PAY0298,Procurement,7.0,Expense Reimbursement,21444.64,2026-10-04,2026-10-04,Completed,2
+PAY0299,Operations,10.0,Regulatory,22690.6,2026-10-02,2026-10-03,Completed,2
+PAY0300,Procurement,7.0,Expense Reimbursement,21927.05,2026-09-11,2026-09-13,Completed,2
